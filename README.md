@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/92030900/229568927-613215d6-1916-4fc5-
 <img src="https://user-images.githubusercontent.com/92030900/229569680-6c91ba71-ecd5-4c38-bca7-204e1aec8e8c.jpg" width="250" height="500">
 
 <h3>Orders page</h2>
-<img src="https://user-images.githubusercontent.com/92030900/229569886-34c6c977-3ab2-4fb9-a9e4-b8c5201bc76b.jpg" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/92030900/229580344-f7300e9b-dc32-4260-8aaf-be397f7a4749.jpg" width="250" height="500">
 
 <h3>Order detailes page 1</h2>
 <img src="https://user-images.githubusercontent.com/92030900/229569899-bcea0d63-6a32-48c7-ba87-c6a6bb67ef0a.jpg" width="250" height="500">
@@ -73,4 +73,7 @@ https://user-images.githubusercontent.com/92030900/229568927-613215d6-1916-4fc5-
 
 <h3>Shop Settings page</h2>
 <img src="https://user-images.githubusercontent.com/92030900/229579848-6ebf7253-6f05-4ce1-9862-39617974301e.jpg" width="250" height="500">
+
+
+![Screenshot_2023-04-03-21-11-23-20_b2ce5d2605061dcd5db3ae25d145077a]()
 
