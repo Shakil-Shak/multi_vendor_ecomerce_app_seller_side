@@ -74,6 +74,3 @@ https://user-images.githubusercontent.com/92030900/229568927-613215d6-1916-4fc5-
 <h3>Shop Settings page</h2>
 <img src="https://user-images.githubusercontent.com/92030900/229579848-6ebf7253-6f05-4ce1-9862-39617974301e.jpg" width="250" height="500">
 
-
-![Screenshot_2023-04-03-21-11-23-20_b2ce5d2605061dcd5db3ae25d145077a]()
-
